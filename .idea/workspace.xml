@@ -9,9 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32a3da87-3626-4b45-92d3-f98b9075508b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/lib/src/resources/movie_api_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/resources/movie_api_provider.dart" afterDir="false" />
-    </list>
+    <list default="true" id="32a3da87-3626-4b45-92d3-f98b9075508b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
     <ignored path="$PROJECT_DIR$/.pub/" />
@@ -44,13 +42,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dart" value="1" />
+          <entry key="dart" value="2" />
           <entry key="yaml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Dart" value="1" />
+          <entry key="Dart" value="2" />
           <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
@@ -74,7 +72,7 @@
         <entry file="file://$PROJECT_DIR$/lib/src/resources/movie_api_provider.dart">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" column="31" lean-forward="true" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+              <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -274,9 +272,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Build Variants" order="3" side_tool="true" />
@@ -297,7 +294,7 @@
       <window_info anchor="bottom" id="Build" order="9" weight="0.32991454" />
       <window_info anchor="bottom" id="Dart Analysis" order="10" weight="0.32894737" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.32879046" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.32879046" />
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32879046" />
       <window_info anchor="bottom" id="Logcat" order="14" weight="0.50940174" />
       <window_info anchor="right" id="Fabric" />
@@ -447,7 +444,7 @@
     <entry file="file://$PROJECT_DIR$/lib/src/resources/movie_api_provider.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="31" lean-forward="true" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
         </state>
       </provider>
     </entry>
