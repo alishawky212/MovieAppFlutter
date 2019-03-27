@@ -1,5 +1,5 @@
 import 'dart:async';
-import 'package:http/http.dart' show Client;
+import 'package:http/http.dart';
 import 'dart:convert';
 import 'package:learnflutterapp/src/models/ItemModel.dart';
 import 'package:learnflutterapp/src/models/trailer_model.dart';
