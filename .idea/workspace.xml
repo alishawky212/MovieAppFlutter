@@ -10,12 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="32a3da87-3626-4b45-92d3-f98b9075508b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/learnflutterapp_android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/learnflutterapp_android.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -37,13 +32,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="dart" value="2" />
+          <entry key="dart" value="4" />
           <entry key="yaml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Dart" value="2" />
+          <entry key="Dart" value="4" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
@@ -76,10 +71,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/src/resources/movie_api_provider.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-345">
-              <caret column="7" selection-start-column="7" selection-end-column="7" />
+            <state relative-caret-position="357">
+              <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/widget_test.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding>
+                <element signature="e#354#393#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -125,12 +132,12 @@
         <option value="$PROJECT_DIR$/lib/main.dart" />
         <option value="$PROJECT_DIR$/lib/src/blocs/MoviesBloc.dart" />
         <option value="$PROJECT_DIR$/lib/src/ui/movie_detail.dart" />
-        <option value="$PROJECT_DIR$/test/widget_test.dart" />
         <option value="$PROJECT_DIR$/lib/src/Comments.dart" />
         <option value="$PROJECT_DIR$/lib/src/resources/movie_api_provider.dart" />
         <option value="$PROJECT_DIR$/lib/src/blocs/movie_detail_bloc.dart" />
         <option value="$PROJECT_DIR$/lib/src/models/ItemModel.dart" />
         <option value="$PROJECT_DIR$/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/test/widget_test.dart" />
       </list>
     </option>
   </component>
@@ -171,6 +178,11 @@
               <item name="lib" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MovieAppFlutter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MovieAppFlutter" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -321,8 +333,8 @@
       <window_info anchor="bottom" id="Build" order="9" weight="0.32991454" />
       <window_info anchor="bottom" id="Dart Analysis" order="10" weight="0.32894737" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32991454" />
-      <window_info active="true" anchor="bottom" id="Messages" order="13" visible="true" weight="0.32879046" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.32879046" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32879046" />
       <window_info anchor="bottom" id="Logcat" order="14" weight="0.50940174" />
       <window_info anchor="right" id="Fabric" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -397,13 +409,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/main.dart" />
-    <entry file="file://$PROJECT_DIR$/test/widget_test.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/Comments.dart" />
     <entry file="file://$PROJECT_DIR$/lib/src/app.dart">
       <provider selected="true" editor-type-id="text-editor">
@@ -465,10 +470,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/widget_test.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="e#354#393#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/src/resources/movie_api_provider.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-345">
-          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        <state relative-caret-position="357">
+          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
           </folding>
